@@ -8,7 +8,7 @@ Giảng viên phụ trách: PGS.TS. Hoàng Văn Xiêm | CN. Bùi Đình Đăng
 ## Mục lục
 1. [Bài 1: Phân loại ảnh dựa trên đặc trưng thống kê và màu sắc](#1-bài-1-phân-loại-ảnh-dựa-trên-đặc-trưng-thống-kê-và-màu-sắc)
 2. [Bài 2: Phân loại đối tượng dựa trên đặc trưng hình dạng và HOG](#2-bài-2-phân-loại-đối-tượng-dựa-trên-đặc-trưng-hình-dạng-và-hog)
-3. [Cấu trúc thư mục và danh mục sản phẩm](#3-cấu-trúc-thư-mục-và-danh-mục-sản-phẩm)
+3. [Phụ lục: Đường dẫn mã nguồn và dữ liệu thực nghiệm trên GitHub](#3-phụ-lục-đường-dẫn-mã-nguồn-và-dữ-liệu-thực-nghiệm-trên-github)
 
 ---
 
@@ -135,9 +135,12 @@ Tập dữ liệu 1.800 ảnh được chia thành tập huấn luyện và tậ
 
 ---
 
-## 3. Cấu trúc thư mục và danh mục sản phẩm
+## 3. Phụ lục: Đường dẫn mã nguồn và dữ liệu thực nghiệm trên GitHub
 
-- Tệp bai1_color_stats.py và Bai1_PhanLoai_MauSac_ThongKe.ipynb: Mã nguồn và sổ tay thực hành bài 1.
-- Tệp bai2_shape_hog.py và Bai2_PhanLoai_HinhDang_HOG.ipynb: Mã nguồn và sổ tay thực hành bài 2.
-- Thư mục outputs/bai1/ và outputs/bai2/: Toàn bộ bảng đặc trưng định dạng csv, bảng kết quả đánh giá và các hình ảnh minh họa định dạng png.
-- Tệp Bao_cao_BTH06.pdf, 23020767_NguyenQuangTuan.pdf và Bao_cao_BTH06.tex: Báo cáo hoàn chỉnh định dạng PDF và LaTeX.
+Toàn bộ mã nguồn chương trình, sổ tay thực hành, bảng dữ liệu đặc trưng, bảng kết quả đánh giá, các biểu đồ minh họa và tệp báo cáo của bài thực hành số 6 được lưu trữ công khai tại kho lưu trữ GitHub theo đường dẫn sau:
+
+- Đường dẫn kho lưu trữ GitHub: https://github.com/Tuan404cl/XLA_BTH06.git
+- Tệp mã nguồn và sổ tay thực hành bài 1: bai1_color_stats.py và Bai1_PhanLoai_MauSac_ThongKe.ipynb.
+- Tệp mã nguồn và sổ tay thực hành bài 2: bai2_shape_hog.py và Bai2_PhanLoai_HinhDang_HOG.ipynb.
+- Thư mục kết quả bài 1 (outputs/bai1/) và bài 2 (outputs/bai2/): Toàn bộ bảng đặc trưng định dạng csv, bảng kết quả đánh giá và các hình ảnh minh họa định dạng png.
+- Tệp báo cáo hoàn chỉnh: Bao_cao_BTH06.pdf, 23020767_NguyenQuangTuan.pdf và Bao_cao_BTH06.tex.
