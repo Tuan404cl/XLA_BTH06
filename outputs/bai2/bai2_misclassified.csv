@@ -1,0 +1,58 @@
+﻿Feature_Set,Model,image_path,true_label,pred_label,Area_A,AspectRatio_AR,Circularity_C
+HOG Only (1764D),KNN,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_142.png,square,circle,1624.0,1.0851063829787233,0.7083157643073755
+HOG Only (1764D),KNN,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_128.png,square,circle,1646.5,0.9591836734693877,0.7172795806241938
+HOG Only (1764D),KNN,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_091.png,square,circle,3234.0,1.0,0.7033933762913531
+HOG Only (1764D),KNN,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_044.png,square,circle,3330.0,0.9753086419753086,0.7274158872955491
+HOG Only (1764D),KNN,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_138.png,square,circle,1904.0,0.9215686274509803,0.7458028820470088
+HOG Only (1764D),KNN,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_076.png,square,circle,1492.5,1.0425531914893618,0.697473716615134
+HOG Only (1764D),KNN,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_127.png,square,circle,2756.0,1.0,0.7842649300478445
+HOG Only (1764D),KNN,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\circle\circle_099.png,circle,triangle,1552.5,1.358974358974359,0.8656375034497
+HOG Only (1764D),SVM,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_142.png,square,triangle,1624.0,1.0851063829787233,0.7083157643073755
+HOG Only (1764D),SVM,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_128.png,square,triangle,1646.5,0.9591836734693877,0.7172795806241938
+HOG Only (1764D),SVM,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\circle\circle_121.png,circle,triangle,1250.0,1.0,0.9031235815957662
+HOG Only (1764D),SVM,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\triangle\triangle_110.png,triangle,square,1825.5,1.0161290322580645,0.5618302737817457
+HOG Only (1764D),SVM,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_138.png,square,circle,1904.0,0.9215686274509803,0.7458028820470088
+HOG Only (1764D),SVM,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_076.png,square,circle,1492.5,1.0425531914893618,0.697473716615134
+HOG Only (1764D),SVM,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\circle\circle_099.png,circle,triangle,1552.5,1.358974358974359,0.8656375034497
+HOG Only (1764D),Random Forest,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_074.png,square,circle,2674.0,1.0,0.6841386079847547
+HOG Only (1764D),Random Forest,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_142.png,square,circle,1624.0,1.0851063829787233,0.7083157643073755
+HOG Only (1764D),Random Forest,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_128.png,square,triangle,1646.5,0.9591836734693877,0.7172795806241938
+HOG Only (1764D),Random Forest,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_104.png,square,triangle,1708.0,1.0363636363636364,0.6877990748112588
+HOG Only (1764D),Random Forest,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\circle\circle_116.png,circle,triangle,1320.0,1.048780487804878,0.883082930956482
+HOG Only (1764D),Random Forest,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_085.png,square,circle,2660.0,1.0289855072463767,0.7071102121050158
+HOG Only (1764D),Random Forest,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\circle\circle_103.png,circle,triangle,1253.5,1.0,0.8976602797831186
+HOG Only (1764D),Random Forest,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\circle\circle_058.png,circle,square,1811.0,1.0851063829787233,0.8979749946507566
+HOG Only (1764D),Random Forest,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\circle\circle_149.png,circle,square,2553.0,1.0350877192982457,0.8949209598197908
+HOG Only (1764D),Random Forest,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\circle\circle_121.png,circle,triangle,1250.0,1.0,0.9031235815957662
+HOG Only (1764D),Random Forest,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\triangle\triangle_110.png,triangle,square,1825.5,1.0161290322580645,0.5618302737817457
+HOG Only (1764D),Random Forest,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\circle\circle_130.png,circle,triangle,1190.5,0.9512195121951219,0.8901513124220848
+HOG Only (1764D),Random Forest,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_138.png,square,triangle,1904.0,0.9215686274509803,0.7458028820470088
+HOG Only (1764D),Random Forest,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_143.png,square,triangle,1556.0,1.0,0.777413042576087
+HOG Only (1764D),Random Forest,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_076.png,square,triangle,1492.5,1.0425531914893618,0.697473716615134
+HOG Only (1764D),Random Forest,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\circle\circle_099.png,circle,triangle,1552.5,1.358974358974359,0.8656375034497
+Shape + HOG (1771D),KNN,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_142.png,square,circle,1624.0,1.0851063829787233,0.7083157643073755
+Shape + HOG (1771D),KNN,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_128.png,square,circle,1646.5,0.9591836734693877,0.7172795806241938
+Shape + HOG (1771D),KNN,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_091.png,square,circle,3234.0,1.0,0.7033933762913531
+Shape + HOG (1771D),KNN,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_044.png,square,circle,3330.0,0.9753086419753086,0.7274158872955491
+Shape + HOG (1771D),KNN,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_138.png,square,circle,1904.0,0.9215686274509803,0.7458028820470088
+Shape + HOG (1771D),KNN,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_076.png,square,circle,1492.5,1.0425531914893618,0.697473716615134
+Shape + HOG (1771D),KNN,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_127.png,square,circle,2756.0,1.0,0.7842649300478445
+Shape + HOG (1771D),SVM,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_142.png,square,triangle,1624.0,1.0851063829787233,0.7083157643073755
+Shape + HOG (1771D),SVM,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_128.png,square,triangle,1646.5,0.9591836734693877,0.7172795806241938
+Shape + HOG (1771D),SVM,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\circle\circle_121.png,circle,triangle,1250.0,1.0,0.9031235815957662
+Shape + HOG (1771D),SVM,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\triangle\triangle_110.png,triangle,square,1825.5,1.0161290322580645,0.5618302737817457
+Shape + HOG (1771D),SVM,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_138.png,square,circle,1904.0,0.9215686274509803,0.7458028820470088
+Shape + HOG (1771D),SVM,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_076.png,square,circle,1492.5,1.0425531914893618,0.697473716615134
+Shape + HOG (1771D),SVM,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\circle\circle_099.png,circle,triangle,1552.5,1.358974358974359,0.8656375034497
+Shape + HOG (1771D),Random Forest,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_074.png,square,circle,2674.0,1.0,0.6841386079847547
+Shape + HOG (1771D),Random Forest,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_142.png,square,triangle,1624.0,1.0851063829787233,0.7083157643073755
+Shape + HOG (1771D),Random Forest,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_128.png,square,triangle,1646.5,0.9591836734693877,0.7172795806241938
+Shape + HOG (1771D),Random Forest,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_091.png,square,circle,3234.0,1.0,0.7033933762913531
+Shape + HOG (1771D),Random Forest,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_104.png,square,triangle,1708.0,1.0363636363636364,0.6877990748112588
+Shape + HOG (1771D),Random Forest,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\circle\circle_116.png,circle,square,1320.0,1.048780487804878,0.883082930956482
+Shape + HOG (1771D),Random Forest,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\circle\circle_149.png,circle,square,2553.0,1.0350877192982457,0.8949209598197908
+Shape + HOG (1771D),Random Forest,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\circle\circle_121.png,circle,triangle,1250.0,1.0,0.9031235815957662
+Shape + HOG (1771D),Random Forest,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_138.png,square,circle,1904.0,0.9215686274509803,0.7458028820470088
+Shape + HOG (1771D),Random Forest,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_143.png,square,triangle,1556.0,1.0,0.777413042576087
+Shape + HOG (1771D),Random Forest,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\square\square_076.png,square,triangle,1492.5,1.0425531914893618,0.697473716615134
+Shape + HOG (1771D),Random Forest,e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\main\circle\circle_099.png,circle,triangle,1552.5,1.358974358974359,0.8656375034497

@@ -1,0 +1,19 @@
+# Ignore large raw external dataset (paths & extracted features are saved in outputs/bai1/)
+fruits-360-100x100/
+
+# Ignore Python cache and test/workflow scratch directories
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.superpowers/
+docs/
+tests/
+generate_notebooks.py
+
+# Ignore LaTeX intermediate build files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+

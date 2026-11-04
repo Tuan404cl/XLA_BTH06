@@ -1,0 +1,5 @@
+﻿Experiment,Features,Num_Dims,Model,Accuracy,Precision,Recall,F1-score
+TN1,Mean + Std (RGB),6,KNN,0.9694,0.972,0.9694,0.9694
+TN2,Mean + Std (HSV),6,KNN,0.9722,0.9733,0.9722,0.9721
+TN3,Histogram màu HSV,32,SVM,0.9917,0.9917,0.9917,0.9917
+TN4,Kết hợp toàn bộ đặc trưng,45,SVM,0.9917,0.9917,0.9917,0.9917

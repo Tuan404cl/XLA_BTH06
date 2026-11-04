@@ -1,0 +1,13 @@
+﻿image_path,true_label,Pred_Shape_RF,Pred_HOG_SVM,Pred_Combined_SVM
+e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\unseen\circle\circle_unseen_00.png,circle,circle,circle,circle
+e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\unseen\circle\circle_unseen_01.png,circle,circle,circle,circle
+e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\unseen\circle\circle_unseen_02.png,circle,circle,circle,circle
+e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\unseen\circle\circle_unseen_03.png,circle,circle,circle,circle
+e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\unseen\square\square_unseen_00.png,square,square,square,square
+e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\unseen\square\square_unseen_01.png,square,square,square,square
+e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\unseen\square\square_unseen_02.png,square,square,circle,circle
+e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\unseen\square\square_unseen_03.png,square,square,square,square
+e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\unseen\triangle\triangle_unseen_00.png,triangle,triangle,triangle,triangle
+e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\unseen\triangle\triangle_unseen_01.png,triangle,triangle,triangle,triangle
+e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\unseen\triangle\triangle_unseen_02.png,triangle,triangle,triangle,triangle
+e:\Hoc tap\Hoc_tap\Hoc_ki_7\Xu_ly_anh\BTH06\outputs\bai2\synthetic_shapes\unseen\triangle\triangle_unseen_03.png,triangle,triangle,triangle,triangle
